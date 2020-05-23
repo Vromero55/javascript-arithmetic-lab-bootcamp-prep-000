@@ -10,6 +10,10 @@ function subtract(a, b){
   return subtracts;
 }
 function multipy(a, b){
-  multipies=a*b;
+  var multipies=a*b;
   return multipies;
+}
+function divide(a, b){
+  var dividing=a/b;
+  return dividing;
 }
