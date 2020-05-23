@@ -14,6 +14,14 @@ function multipy(a, b){
   return multipies;
 }
 function divide(a, b){
-  var dividing=a/b;
-  return dividing;
+  var divides=a/b;
+  return divides;
+}
+function increment(n){
+  n++;
+  return n;
+}
+function decrement(n){
+  n--;
+  return n;
 }
