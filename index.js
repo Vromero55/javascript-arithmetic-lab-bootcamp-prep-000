@@ -29,4 +29,4 @@ function makeInt(n){
  var number= parseInt(n, 10);
   return number;
 }
-function 
+function makeFloat(n)
