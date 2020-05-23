@@ -29,7 +29,7 @@ function makeInt(n){
  var number= parseInt(n, 10);
   return number;
 }
-function preserveDecimals(n){
+function preserveDecimal(n){
   n='56476.865';
   var number=parseFloat(n);
   return number;
