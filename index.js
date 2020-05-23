@@ -9,3 +9,7 @@ function subtract(a, b){
   var subtracts=a-b;
   return subtracts;
 }
+function multipy(a, b){
+  multipies=a*b;
+  return multipies;
+}
