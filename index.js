@@ -26,6 +26,6 @@ function decrement(n){
   return n;
 }
 function parseInt(n){
-  var number=parseInt('n', 5);
+  parseInt('n');
   return number;
 }
