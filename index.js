@@ -9,9 +9,9 @@ function subtract(a, b){
   var subtracts=a-b;
   return subtracts;
 }
-function multipy(a, b){
-  var multipies=a*b;
-  return multipies;
+function multiply(a, b){
+  var multiplies=a*b;
+  return multiplies;
 }
 function divide(a, b){
   var divides=a/b;
